@@ -1,0 +1,8 @@
+{
+  "name": "cheapest-recipe-finder",
+  "description": "Built this app in @GoogleAIStudio with Gemini 3 Pro. It takes a recipe (like Hummingbird Cake), finds the cheapest specific ingredients at local stores (@HEB vs @Walmart), and maps the route. ",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
